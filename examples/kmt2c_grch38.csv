@@ -1,0 +1,2 @@
+input_id,chrom,pos,ref,alt,gene,transcript,assembly
+V4834A,7,152139219,A,G,KMT2C,NM_170606.3,GRCh38
