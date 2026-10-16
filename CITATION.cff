@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the exact version or commit and the underlying annotation resources."
+title: "Chromatin VUS Workflow"
+type: software
+authors:
+  - name: "Chromatin VUS Workflow contributors"
+version: 0.1.0
+date-released: 2026-10-16
+repository-code: "https://github.com/Xiaoguo-Zheng/chromatin-vus-workflow"
+license: MIT
+abstract: "Traceable multi-source annotation, figures and rule-based experimental follow-up planning for human chromatin-regulator missense SNVs."
