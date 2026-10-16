@@ -1,0 +1,15 @@
+gene,family,readout,experiments,source_url
+KMT2C,H3K4 methyltransferase,H3K4me1,Measure H3K4me1 and protein abundance; profile chromatin changes and context-dependent transcription.,https://www.uniprot.org/uniprotkb/Q8NEZ4/entry
+KMT2D,H3K4 methyltransferase,H3K4me1,Measure H3K4me1 and protein abundance; profile chromatin changes and context-dependent transcription.,https://www.uniprot.org/uniprotkb/O14686/entry
+SETD2,H3K36 methyltransferase,H3K36me3,Measure H3K36me3 relative to total H3; examine gene-body distribution and a relevant transcription or repair phenotype.,https://www.uniprot.org/uniprotkb/Q9BYW2/entry
+EZH2,PRC2 catalytic subunit,H3K27me3,Measure H3K27me3 and PRC2 complex integrity; examine both increased and decreased activity.,https://www.uniprot.org/uniprotkb/Q15910/entry
+KDM6A,H3K27 demethylase,H3K27me3,Measure H3K27me3 and protein abundance; distinguish catalytic activity from complex-associated functions.,https://www.uniprot.org/uniprotkb/O15550/entry
+KDM5C,H3K4 demethylase,H3K4me2 and H3K4me3,Measure H3K4me2/3 and protein abundance; test demethylase activity alongside transcriptional effects.,https://www.uniprot.org/uniprotkb/P41229/entry
+DNMT3A,DNA methyltransferase,DNA methylation,Measure locus-specific or genome-wide DNA methylation and protein abundance in the relevant cell context.,https://www.uniprot.org/uniprotkb/Q9Y6K1/entry
+TET2,DNA dioxygenase,5mC and 5hmC,Use assays that distinguish 5mC from 5hmC; conventional bisulfite sequencing alone cannot distinguish these bases.,https://www.uniprot.org/uniprotkb/Q6N021/entry
+CREBBP,Lysine acetyltransferase,H3K18ac and H3K27ac,Measure histone acetylation and protein abundance; examine coactivator interactions and transcription.,https://www.uniprot.org/uniprotkb/Q92793/entry
+EP300,Lysine acetyltransferase,H3K18ac and H3K27ac,Measure histone acetylation and protein abundance; examine coactivator interactions and transcription.,https://www.uniprot.org/uniprotkb/Q09472/entry
+MECP2,Methylated-DNA binding protein,DNA binding and chromatin occupancy,Test methylated-DNA binding and chromatin occupancy with dosage controls; assess relevant target transcription.,https://www.uniprot.org/uniprotkb/P51608/entry
+CHD8,ATP-dependent chromatin remodeler,Chromatin accessibility,Measure chromatin accessibility and occupancy; evaluate protein abundance and ATP-dependent remodeling where feasible.,https://www.uniprot.org/uniprotkb/Q9HCK8/entry
+SMARCA4,SWI/SNF ATPase,Chromatin accessibility,Measure chromatin accessibility and complex assembly; test ATPase or nucleosome remodeling activity where feasible.,https://www.uniprot.org/uniprotkb/P51532/entry
+ARID1B,SWI/SNF subunit,Complex assembly and chromatin accessibility,Examine complex incorporation and chromatin occupancy with accessibility and transcription measurements.,https://www.uniprot.org/uniprotkb/Q8NFD5/entry
